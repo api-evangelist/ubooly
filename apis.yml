@@ -30,7 +30,7 @@ x-status: defunct
 x-status-evidence: 'ubooly.com 301-redirects to boosting-site.com (unrelated spam
   site); api./developer./docs. subdomains do not resolve; no GitHub org (404), no
   npm or PyPI packages; last live Wayback snapshot 2015-12-23 (probed 2026-07-21)'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
